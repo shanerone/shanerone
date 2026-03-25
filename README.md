@@ -1,4 +1,4 @@
-<img width="1232" height="326" alt="изображение" src="https://github.com/user-attachments/assets/68c0dd99-e677-4e5a-b8f9-313638165794" />
+
 <p align="center">
    <samp><br>
    Hey there, I'm Matvey!
