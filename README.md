@@ -5,7 +5,7 @@
    <br>
    I’m currently learning Python, fastapi, aiogram, PostgreSQL, Docker.<br>
    In the mean time, I'm working on developing Python projects and<br> looking to contribute to other open source
-   projects.
+   projects.<br>
    I am actively writing pet projects and looking for opportunities for joint development
    <br>
    </samp><br>
